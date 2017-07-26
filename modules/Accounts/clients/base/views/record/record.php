@@ -187,12 +187,7 @@ array (
               6 => 
               array (
                 'name' => 'tag',
-                'span' => 6,
-              ),
-              7 => 
-              array (
-                'name' => 'uni_student_accounts_name',
-                'span' => 6,
+                'span' => 12,
               ),
             ),
           ),

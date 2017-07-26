@@ -10,21 +10,4 @@
  * Copyright (C) SugarCRM Inc. All rights reserved.
  */
 $relationships = array (
-  'uni_course_uni_class' => 
-  array (
-    'rhs_label' => 'Classes',
-    'lhs_label' => 'courses',
-    'lhs_subpanel' => 'default',
-    'rhs_subpanel' => 'default',
-    'lhs_module' => 'uni_course',
-    'rhs_module' => 'uni_Class',
-    'relationship_type' => 'many-to-many',
-    'readonly' => false,
-    'deleted' => false,
-    'relationship_only' => false,
-    'for_activities' => false,
-    'is_custom' => false,
-    'from_studio' => false,
-    'relationship_name' => 'uni_course_uni_class',
-  ),
 );

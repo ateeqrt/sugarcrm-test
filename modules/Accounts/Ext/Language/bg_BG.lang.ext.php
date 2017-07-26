@@ -10,12 +10,3 @@ $mod_strings['LBL_UNI_STUDENT_ACCOUNTS_1_FROM_ACCOUNTS_TITLE_ID'] = 'uni_Student
 $mod_strings['LBL_UNI_STUDENT_ACCOUNTS_1_FROM_ACCOUNTS_TITLE'] = 'Students';
 
 ?>
-<?php
-// Merged from custom/Extension/modules/Accounts/Ext/Language/bg_BG.university.php
-
-//THIS FILE IS AUTO GENERATED, DO NOT MODIFY
-$mod_strings['LBL_UNI_STUDENT_ACCOUNTS_FROM_UNI_STUDENT_TITLE'] = 'Students';
-$mod_strings['LBL_UNI_STUDENT_ACCOUNTS_FROM_ACCOUNTS_TITLE_ID'] = 'uni_Student ID';
-$mod_strings['LBL_UNI_STUDENT_ACCOUNTS_FROM_ACCOUNTS_TITLE'] = 'Students';
-
-?>
