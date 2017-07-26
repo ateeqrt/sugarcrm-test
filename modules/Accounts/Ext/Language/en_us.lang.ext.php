@@ -10,3 +10,10 @@ $mod_strings['LBL_UNI_STUDENT_ACCOUNTS_1_FROM_ACCOUNTS_TITLE_ID'] = 'uni_Student
 $mod_strings['LBL_UNI_STUDENT_ACCOUNTS_1_FROM_ACCOUNTS_TITLE'] = 'Students';
 
 ?>
+<?php
+// Merged from custom/Extension/modules/Accounts/Ext/Language/en_us.lang.php
+
+// WARNING: The contents of this file are auto-generated.
+$mod_strings['LBL_TESTFIELD'] = 'testfield';
+
+?>
